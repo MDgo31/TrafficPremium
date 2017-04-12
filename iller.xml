@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sehirler xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<sehir>
+		<il>İstanbul </il>
+		<oran>1.06</oran>
+	</sehir>
+	<sehir>
+		<il>Kocaeli</il>
+		<oran>1.06</oran>
+	</sehir>
+	<sehir>
+		<il>Ankara</il>
+		<oran>1.06</oran>
+	</sehir>
+	<sehir>
+		<il>Bursa</il>
+		<oran>1.06</oran>
+	</sehir>
+	<sehir>
+		<il>İzmir </il>
+		<oran>1</oran>
+	</sehir>
+	<sehir>
+		<il>Yalova</il>
+		<oran>1</oran>
+	</sehir>
+	<sehir>
+		<il>Erzurum </il>
+		<oran>1</oran>
+	</sehir>
+	<sehir>
+		<il>Kayseri</il>
+		<oran>1</oran>
+	</sehir>
+	<sehir>
+		<il>Sakarya</il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Düzce </il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Eskişehir</il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Ordu </il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Trabzon</il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Tekirdağ</il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Bingöl</il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Rize</il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Adana</il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Samsun </il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Karabük </il>
+		<oran>0.99</oran>
+	</sehir>
+	<sehir>
+		<il>Denizli</il>
+		<oran>0.98</oran>
+	</sehir>
+	<sehir>
+		<il>Diyarbakır</il>
+		<oran>0.98</oran>
+	</sehir>
+	<sehir>
+		<il>Konya</il>
+		<oran>0.98</oran>
+	</sehir>
+	<sehir>
+		<il>Bayburt</il>
+		<oran>0.98</oran>
+	</sehir>
+	<sehir>
+		<il>KırıkKale</il>
+		<oran>0.98</oran>
+	</sehir>
+	<sehir>
+		<il>Giresun </il>
+		<oran>0.98</oran>
+	</sehir>
+	<sehir>
+		<il>Malatya</il>
+		<oran>0.98</oran>
+	</sehir>
+	<sehir>
+		<il>Antalya</il>
+		<oran>0.98</oran>
+	</sehir>
+	<sehir>
+		<il>Erzincan</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>İçel</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Gaziantep </il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Elazığ</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Zonguldak</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Sivas</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Bolu </il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Siirt</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Aksaray</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Çorum </il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Muş</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Batman </il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Bilecik </il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Bitlis </il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Kırşehir</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Iğdır</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Gümüşhane</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Artvin</il>
+		<oran>0.97</oran>
+	</sehir>
+	<sehir>
+		<il>Niğde</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Nevşehir</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>K.Maraş</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Çankırı </il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Kırıklareli</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Uşak</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Van </il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Yozgat</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Bartın </il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Karaman </il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Balıkesir</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Edirne </il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Afyon</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Şırnak</il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Amasya </il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Ağrı </il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Manisa </il>
+		<oran>0.96</oran>
+	</sehir>
+	<sehir>
+		<il>Aydın </il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Tokat</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Sinop </il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Isparta</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Tunceli </il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Çanakkale</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Mardin</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Hatay</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Osmaniye</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il> Kütahya</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Muğla </il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Kars </il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Kastamonu </il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Burdur</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Adıyaman </il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Şanlıurfa</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Ardahan</il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Hakkari </il>
+		<oran>0.95</oran>
+	</sehir>
+	<sehir>
+		<il>Kilis</il>
+		<oran>0.95</oran>
+	</sehir>
+</sehirler>

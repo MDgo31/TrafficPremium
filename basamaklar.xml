@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Basamaklar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Basamak>
+		<BasamakAdi>7</BasamakAdi>
+		<carpan>0.55</carpan>
+	</Basamak>
+	<Basamak>
+		<BasamakAdi>6</BasamakAdi>
+		<carpan>0.7</carpan>
+	</Basamak>
+	<Basamak>
+		<BasamakAdi>5</BasamakAdi>
+		<carpan>0.85</carpan>
+	</Basamak>
+	<Basamak>
+		<BasamakAdi>4</BasamakAdi>
+		<carpan>1</carpan>
+	</Basamak>
+	<Basamak>
+		<BasamakAdi>3</BasamakAdi>
+		<carpan>1.5</carpan>
+	</Basamak>
+	<Basamak>
+		<BasamakAdi>2</BasamakAdi>
+		<carpan>2</carpan>
+	</Basamak>
+	<Basamak>
+		<BasamakAdi>1</BasamakAdi>
+		<carpan>2.5</carpan>
+	</Basamak>
+</Basamaklar>

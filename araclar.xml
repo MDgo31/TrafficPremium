@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Araclar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Arac>
+		<AracAdi>Otomobil</AracAdi>
+		<Prim>807</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Kamyonet</AracAdi>
+		<Prim>1055</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Motorsiklet</AracAdi>
+		<Prim>329</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Traktör</AracAdi>
+		<Prim>165</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Minibüs (sürücü dahil 10-17 koltuk)</AracAdi>
+		<Prim>1418</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Kamyon </AracAdi>
+		<Prim>2258</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Çekici </AracAdi>
+		<Prim>3784</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Otobüs (sürücü Dahil 18-30) </AracAdi>
+		<Prim>2021</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Taksi </AracAdi>
+		<Prim>2089</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>İş Makinesi </AracAdi>
+		<Prim>690</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Otobüs (sürücü Dahil 31  ve üstü koltuk) </AracAdi>
+		<Prim>5007</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Özel Amaçlı Araç</AracAdi>
+		<Prim>2200</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Römork </AracAdi>
+		<Prim>456</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Tanker </AracAdi>
+		<Prim>1436</Prim>
+	</Arac>
+	<Arac>
+		<AracAdi>Tarım Makinesi </AracAdi>
+		<Prim>245</Prim>
+	</Arac>
+</Araclar>
